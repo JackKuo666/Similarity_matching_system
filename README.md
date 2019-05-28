@@ -19,3 +19,10 @@
 ![22.png](22.png)
 ## 2.2 项目代码
 [《电商标题数据相似度匹配系统》](https://github.com/JackKuo666/Similarity_matching_system/blob/master/Task/tfidf_task.ipynb)
+
+------------------------------------完---------------------------------------------------------
+# 更多NLP知识请访问：
+
+我的主页：https://jackkuo666.github.io/
+
+我的博客：https://blog.csdn.net/weixin_37251044
